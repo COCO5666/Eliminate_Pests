@@ -2,7 +2,6 @@
 !.cocos-project.json
 !.gitignore
 !ReadMe.md
-!buildToAndroidWithDebugMode.bat
 !CMakeLists.txt
 !/Classes/
 !/proj.android/
