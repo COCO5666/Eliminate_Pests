@@ -3,7 +3,7 @@
 /*
 Quick Engine模块
 
-版本号V1.0
+版本号V1.0 for ElimatePests
 
 QE（Quick Engine，快速引擎）简介：
 基于Cocos2d-x 3.17.1、C++ 17构建，用来尽可能多地提升代码的复用性。
